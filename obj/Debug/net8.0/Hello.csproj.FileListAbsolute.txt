@@ -1,0 +1,15 @@
+/Users/shekharsingh/Projects/Hello/Hello/bin/Debug/net8.0/Hello
+/Users/shekharsingh/Projects/Hello/Hello/bin/Debug/net8.0/Hello.deps.json
+/Users/shekharsingh/Projects/Hello/Hello/bin/Debug/net8.0/Hello.runtimeconfig.json
+/Users/shekharsingh/Projects/Hello/Hello/bin/Debug/net8.0/Hello.dll
+/Users/shekharsingh/Projects/Hello/Hello/bin/Debug/net8.0/Hello.pdb
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.AssemblyInfoInputs.cache
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.AssemblyInfo.cs
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.csproj.CoreCompileInputs.cache
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.dll
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/refint/Hello.dll
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.pdb
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.genruntimeconfig.cache
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/ref/Hello.dll
+/Users/shekharsingh/Projects/Hello/Hello/obj/Debug/net8.0/Hello.sourcelink.json
